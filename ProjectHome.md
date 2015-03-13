@@ -1,0 +1,1 @@
+Rules: Colors of borders should be congruent. Pick hexagon from   blue cells and put it into grid. Hexagons can be stored in yellow cells and destroyed in red cell. Destroying hexagons cause your score to decrease. You can rotate hexagon by right mouse click. Gray border can be adjoined with any border color. Good luck.
